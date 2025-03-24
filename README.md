@@ -35,18 +35,35 @@
     </a>
 </p>
 
-<h3 align="center">Courses on Stepik:</h3>
-<p align="center">
-    <a href="https://stepik.org/cert/2649923" target="_blank">
-        <img src="https://img.shields.io/badge/Stepik%20Course%201-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 1" />
-    </a>
-    <a href="https://stepik.org/cert/2647478" target="_blank">
-        <img src="https://img.shields.io/badge/Stepik%20Course%202-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 2" />
-    </a>
-    <a href="https://stepik.org/cert/2426831" target="_blank">
-        <img src="https://img.shields.io/badge/Stepik%20Course%203-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 3" />
-    </a>
-</p>
+<h3 align="center">Courses:</h3>
+<table align="center">
+    <tr>
+        <th>Course Name</th>
+        <th>Status</th>
+        <th>Certificate</th>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/67/promo">Programming in Python</a></td>
+        <td>Completed</td>
+        <td><a href="https://stepik.org/cert/2647478"><img src="https://img.shields.io/badge/Certificate-4CAF50?style=flat&logo=certificate&logoColor=white" alt="Certificate" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/3078/promo">Fundamentals of Programming in C. Tasks.</a></td>
+        <td>Completed</td>
+        <td><a href="https://stepik.org/cert/2426831"><img src="https://img.shields.io/badge/Certificate-4CAF50?style=flat&logo=certificate&logoColor=white" alt="Certificate" /></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/63054/syllabus">Interactive SQL Trainer</a></td>
+        <td>In Progress</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://stepik.org/course/512/syllabus">Python: Basics and Applications</a></td>
+        <td>In Progress</td>
+        <td></td>
+    </tr>
+</table>
+
 
 
 
