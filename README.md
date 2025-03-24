@@ -35,6 +35,20 @@
     </a>
 </p>
 
+<h3 align="center">Courses on Stepik:</h3>
+<p align="center">
+    <a href="https://stepik.org/cert/2649923" target="_blank">
+        <img src="https://img.shields.io/badge/Stepik%20Course%201-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 1" />
+    </a>
+    <a href="https://stepik.org/cert/2647478" target="_blank">
+        <img src="https://img.shields.io/badge/Stepik%20Course%202-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 2" />
+    </a>
+    <a href="https://stepik.org/cert/2426831" target="_blank">
+        <img src="https://img.shields.io/badge/Stepik%20Course%203-007ACC?style=flat&logo=stepik&logoColor=white" alt="Stepik Course 3" />
+    </a>
+</p>
+
+
 
 <h3 align="center">Most used languages:</h3>
 <p align="center">
