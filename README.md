@@ -4,7 +4,7 @@
 <h3 align="center">Contact with me: </h3>
 
 <div style="text-align: center;">
-    <table style="margin: 0 auto;">
+    <table style="margin: auto;">
         <tr>
             <td>
                 <a href="https://t.me/janethph" target="_blank">
