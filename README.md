@@ -35,7 +35,7 @@
     </a>
 </p>
 
-<h3 align="center">Courses:</h3>
+<h3 align="center">Courses on Stepik:</h3>
 <table align="center">
     <tr>
         <th>Course Name</th>
