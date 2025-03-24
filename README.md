@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
     <img src="https://img.shields.io/badge/Makefile-E2231A?style=flat&logo=gnu&logoColor=white" alt="Makefile" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
 
