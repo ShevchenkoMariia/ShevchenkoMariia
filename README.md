@@ -3,7 +3,7 @@
 <h3 align="center">School 21 student from Moscow (Russia) 🇷🇺</h3>
 
 <h3 align="center">Contact with me:
-    <table style="margin: auto;">
+    <table>
         <tr>
             <td>
                 <a href="https://t.me/janethph" target="_blank">
