@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
     </a>
     <a href="https://earthly.dev/blog/make-tutorial/" target="_blank">
-        <img src="https://img.shields.io/badge/Make-000000?style=flat&logo=gnu&logoColor=white" alt="Make" />
+        <img src="https://img.shields.io/badge/Makefile-E2231A?style=flat&logo=gnu&logoColor=white" alt="Makefile"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" />
     </a>
 </p>
-
 
 
 <h3 align="center">Most used languages:</h3>
