@@ -2,19 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">School 21 student from Moscow (Russia) 🇷🇺</h3>
 
-
-<div>
-    <h3 align="center">Contact with me: </h3>
-    <table>
-        <tr>
-            <td>
-                <a href="https://t.me/janethph" target="_blank">
-                    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-                </a>
-            </td>
-            <td>
-                <a href="https://t.me/janethph" target="_blank">@janethph</a>
-            </td>
-        </tr>
-    </table>
-</div>
+<h3 align="center">Contact with me:
+    <a href="https://t.me/janethph" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+</h3>
