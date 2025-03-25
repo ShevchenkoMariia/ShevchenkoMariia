@@ -70,3 +70,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShevchenkoMariia&layout=compact&langs_count=5&custom_title=Top%20Languages&exclude_repo=your-repo-name&include_lang=SQL" alt="Top Languages">
     </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
