@@ -63,5 +63,3 @@
         <td></td>
     </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShevchenkoMariia&layout=compact&langs_count=6&card_width=400&hide=javascript,html,css,dockerfile&custom_title=My%20Top%20Languages&theme=radical)](https://github.com/ShevchenkoMariia/github-readme-stats)
