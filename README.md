@@ -33,8 +33,8 @@
     <a href="https://www.altlinux.org/Vim_учебник" target="_blank">
         <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim" />
     </a>
-    <a href="https://linter.ru/documentation/information/pdf/sql.pdf" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+    <a href="https://linter.ru/documentation/information/pdf/sql.pdf" target="_blank">
     </a>
 </p>
 
