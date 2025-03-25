@@ -64,12 +64,9 @@
     </tr>
 </table>
 
-
-
-
 <h3 align="center">Most used languages:</h3>
 <p align="center">
     <a href="https://github.com/ShevchenkoMariia/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShevchenkoMariia&layout=compact&langs_count=5&custom_title=Top%20Languages&exclude_repo=your-repo-name" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShevchenkoMariia&layout=compact&langs_count=5&custom_title=Top%20Languages&exclude_repo=your-repo-name&include_lang=SQL" alt="Top Languages">
     </a>
 </p>
